@@ -9,11 +9,9 @@ This project aims to perform data analysis on a digital music store using SQL. T
 - PostgreSQL
 - PgAdmin4
 
-## Schema- Music Store Database-
-
+## Schema - Music Store Database
 
 ![screenshot](schema_diagram.png)
-
 
 ## Query Categorization
 
@@ -39,7 +37,7 @@ In this project, I have categorized the queries I worked on into different diffi
 - **Identify the most popular genre in each country, including the genre name, country, and the number of purchases, using row number ranking.**
 - **Retrieve customer details (ID, first name, last name), along with the best-selling artist they have purchased from and the total amount spent by the customer.**
 
-#### These queries provide insights into various aspects of the music store data and demonstrate different levels of complexity in data analysis.
+These queries provide insights into various aspects of the music store data and demonstrate different levels of complexity in data analysis.
 
 ## Results
 
@@ -51,7 +49,7 @@ The results of the project are as follows:
 - The average price of an album is **$1**.
 - The most popular country for music purchases is the **United States**.
 
-Some of the analysis is mentioned above, and the rest can be seen through the [Spotify_queries.sql](Spotify_queries.sql) file.
+Some of the analysis is mentioned above, and the rest can be seen through the [analysis.sql](analysis.sql) file.
 
 ## Conclusion
 
