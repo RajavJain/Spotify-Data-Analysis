@@ -49,7 +49,7 @@ The results of the project are as follows:
 - The average price of an album is **$1**.
 - The most popular country for music purchases is the **United States**.
 
-Some of the analysis is mentioned above, and the rest can be seen through the [analysis.sql](analysis.sql) file.
+Some of the analysis is mentioned above, and the rest can be seen through the [Spotify_queries.sql](Spotify_queries.sql) file.
 
 ## Conclusion
 
